@@ -6,6 +6,8 @@ Reproduction code for the paper:
 
 <img src="fig_logit_main.png" width="80%">
 
+[**Code for the figure (Google Colab notebook)**](https://colab.research.google.com/drive/1DQ1HvOtRCb8fXw6TBF3-Pc9Ozdv5kEM5?usp=sharing)
+
 ## Repository Structure
 
 The repository is organized into the following modules:
